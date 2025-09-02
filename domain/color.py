@@ -1,0 +1,20 @@
+class Color:
+    PURPLE = '\033[95m'
+    CYAN = '\033[96m'
+    DARKCYAN = '\033[36m'
+    BLUE = '\033[94m'
+    GREEN = '\033[92m'
+    YELLOW = '\033[93m'
+    RED = '\033[91m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+    END = '\033[0m'
+    INDIGO = '\033[94m'  # Similar to blue but can be customized
+    ORANGE = '\033[38;5;214m'
+    PINK = '\033[38;5;13m'
+    TEAL = '\033[38;5;37m'
+    MAGENTA = '\033[35m'
+    LIGHT_BLUE = '\033[94m'  # Lighter variant of BLUE
+    GREY = '\033[90m'  # Grey color
+    WHITE = '\033[97m'
+    BLACK = '\033[30m'
